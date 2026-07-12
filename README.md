@@ -1,6 +1,6 @@
-# duck-fit-public
+# anew-span-public
 
-AnewSpan 公开站点（GitHub Pages），用于托管 App Store Connect 与 App 内引用的公开页面。仓库名与 URL 中的 `duck-fit-public` 为沿用的托管路径，不作为对外产品名。
+AnewSpan 公开站点（GitHub Pages），用于托管 App Store Connect 与 App 内引用的公开页面。
 
 ## 内容
 
@@ -11,10 +11,10 @@ AnewSpan 公开站点（GitHub Pages），用于托管 App Store Connect 与 App
 
 ## 访问地址
 
-GitHub Pages：`https://intsususu.github.io/duck-fit-public/`
+GitHub Pages：`https://intsususu.github.io/anew-span-public/`
 
-- 落地页：`https://intsususu.github.io/duck-fit-public/`
-- 隐私政策（英文，默认）：`https://intsususu.github.io/duck-fit-public/privacy/` 或 `…/privacy/en.html`
+- 落地页：`https://intsususu.github.io/anew-span-public/`
+- 隐私政策（英文，默认）：`https://intsususu.github.io/anew-span-public/privacy/` 或 `…/privacy/en.html`
 - 简中：`…/privacy/zh-Hans.html`
 - 繁中：`…/privacy/zh-Hant.html`
 
