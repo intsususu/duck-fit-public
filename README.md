@@ -1,6 +1,6 @@
 # duck-fit-public
 
-DuckFit 公开站点（GitHub Pages），用于托管 App Store Connect 与 App 内引用的公开页面。
+AnewSpan 公开站点（GitHub Pages），用于托管 App Store Connect 与 App 内引用的公开页面。仓库名与 URL 中的 `duck-fit-public` 为沿用的托管路径，不作为对外产品名。
 
 ## 内容
 
