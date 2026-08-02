@@ -26,17 +26,20 @@
     <a href="zh-Hant.html">繁體中文</a>
   </nav>
   <h1>AnewSpan Privacy Policy</h1>
-  <p class="updated">Last updated: July 12, 2026</p>
+  <p class="updated">Last updated: July 28, 2026</p>
   <p>AnewSpan is designed for on-device health tracking. This privacy policy applies to App Store review and the public hosted copy.</p>
   <h2>Data AnewSpan Reads</h2>
   <p>With your permission, AnewSpan reads selected Apple Health data such as weight, sleep, exercise minutes, workouts, active energy, and heart rate. The app uses this data to display weight, sleep, exercise, event, and goal trends.</p>
   <p>AnewSpan requests read-only HealthKit access. It does not write data to Apple Health.</p>
   <h2>On-Device Processing</h2>
-  <p>HealthKit data, cached summaries, and analysis results are processed on your device. Avatar images are stored locally by default. Exercise and Sleep widgets read only the minimal derived snapshots shared by the app through the local App Group.</p>
-  <p>AnewSpan does not upload your HealthKit data to an AnewSpan server. AnewSpan does not include advertising SDKs, analytics SDKs, tracking SDKs, or remote logging.</p>
-  <p>This release does not provide iCloud Sync. Your goals, profile details, avatar image, unit preferences, event records, and custom event tag presets remain on your device.</p>
-  <h2>Local Storage and Deletion</h2>
-  <p>AnewSpan stores app preferences, profile details, goals, events, cached summaries, and avatar images locally on your device. You can edit or delete available local records in the app, restore the default avatar from profile settings, or delete the app to remove its local app data from the device.</p>
+  <p>HealthKit data, cached summaries, and analysis results are processed on your device. Avatar images are stored locally by default. Exercise and Sleep widgets read only the minimal derived snapshots shared by the app through the local App Group. Advanced habit widgets read and update only your local habit definitions and habit records in that App Group.</p>
+  <p>AnewSpan does not upload your HealthKit data to iCloud or an AnewSpan server. AnewSpan does not include advertising SDKs, analytics SDKs, tracking SDKs, or remote logging.</p>
+  <h2>Optional iCloud Sync</h2>
+  <p>On-device storage is the default. If you actively select iCloud Sync in the app, AnewSpan uses your Apple iCloud private CloudKit database to sync your goals, profile details, avatar image, unit preferences, event overlay preference, event records, and custom event tag presets across devices signed in to the same Apple Account.</p>
+  <p>HealthKit data, cached and derived health summaries, analysis caches, exported program-data files, habit definitions, habit records, and widget snapshots do not enter CloudKit. AnewSpan does not operate an account system or business server. Content in a production CloudKit private database belongs to the user and is not visible to the developer through the CloudKit Console.</p>
+  <h2>Storage and Deletion</h2>
+  <p>AnewSpan stores app preferences, profile details, goals, events, habits, cached summaries, and avatar images locally on your device. You can edit or delete available local records in the app, restore the default avatar from profile settings, or delete the app to remove its local app data from the device.</p>
+  <p>When iCloud Sync is enabled, you can switch back to on-device storage. You can also use iCloud Sync Management &gt; Remove Data to remove AnewSpan’s synced records from iCloud while preserving the local copy on the current iPhone. Deleting the app from one device does not by itself remove records already stored in iCloud.</p>
   <p>Apple Health data remains managed by Apple Health. You can revoke AnewSpan’s HealthKit access at any time in iOS Settings &gt; Health &gt; Data Access &amp; Devices.</p>
   <h2>Contact</h2>
   <p>Privacy contact: <a href="mailto:intsusu@hotmail.com">intsusu@hotmail.com</a></p>
